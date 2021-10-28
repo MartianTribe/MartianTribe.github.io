@@ -1,2 +1,2 @@
-# github.io
+# MartianTribe
 Github pages for MartianTribe
